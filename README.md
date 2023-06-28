@@ -1,3 +1,6 @@
+#Added statements that limit the amount of reserved VRAM so that other scripts can be run in the same GPU as well 
+
+
 # RetinaFace
 
 <div align="center">
